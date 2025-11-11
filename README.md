@@ -59,9 +59,9 @@ streamlit run app.py
 
 ## 📎 Demo & Deployment
 
-🔗 **Live Demo:** https://agrigaurd-ai-crop-disease-detection.streamlit.app/
+🔗 **Live Demo:** [https://leaf-ai.streamlit.app/](https://leaf-ai.streamlit.app/)
 
-📂 **GitHub Repository:** https://github.com/Rohitpawale23/AgriGaurd-AI-Crop-Disease-Detection
+📂 **GitHub Repository:** [https://github.com/Nivas236/Leaf-AI-Intelligent-Leaf-Detection-System](https://github.com/Nivas236/Leaf-AI-Intelligent-Leaf-Detection-System)
 
 ---
 
