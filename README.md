@@ -67,6 +67,7 @@ streamlit run app.py
 
 ## 📢 Connect With Me
 👤 **Developer:** Nivas Mallela
+
 🔗 **Follow Me:** https://www.linkedin.com/in/nivas-mallela-911a2b293/
 
 ---
